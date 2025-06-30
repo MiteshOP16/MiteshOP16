@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yash Patil
+# 👋 Hi, I'm Mitesh Uttekar
 
 🚀 **Full Stack Developer | MERN Enthusiast**
 
