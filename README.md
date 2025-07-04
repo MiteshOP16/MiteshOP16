@@ -51,7 +51,11 @@ Tech: Power BI, DAX, Excel
 Data investigation and dashboard building for a corporate fraud scenario.
 Tech: Excel, Tableau
 🔸 Delivered actionable insights with visual summaries
+
+
 ---
+
+
 
 ## 🛠️ Skills & Technologies
 
