@@ -1,4 +1,4 @@
-✨ **Hi, I'm Mitesh Uttekar**
+# ✨ **Hi, I'm Mitesh Uttekar**
 🎯 **Aspiring Data Analyst | 📊 Power BI & Python Enthusiast | 🧠 ML & NLP Explorer**
 
 I'm passionate about transforming data into actionable insights that drive smarter business decisions. With a strong foundation in SQL, Python, Power BI, and Tableau, I’ve worked on real-world data projects involving dashboard creation, predictive modeling, and AI automation.
