@@ -27,15 +27,30 @@ I’m always open to learning, collaborating, and solving complex data problems 
 ---
 
 ## 🤝 Open to Collaboration
-💡 MERN Stack Projects | Full-Stack Web Applications
+💡 Data Analysis | BI Dashboards | ML Projects | AI Automation
+
+
 
 ---
 
 ## 👨‍💻 Portfolio & Projects
 
-- 💬 **Real-Time Chat App** – React, Express, TypeScript, Socket.IO  
-- 🏡 **WanderLust – Airbnb Clone** – Node.js, MongoDB, Express, EJS  
+🔹 Aqua Sentinel – Beach Safety Prediction System
+Built a machine learning model to classify beach safety using real-time weather/ocean data.
+Tech: Python, Random Forest, Power BI, MERN stack, IoT (ESP32)
+🔸 Accuracy: 92.5%
+🔸 Real-time safety alerts + visual dashboards
 
+🔹 Sales & Profit Analysis Dashboard
+Power BI dashboard for tracking regional & product-level KPIs across timelines.
+Tech: Power BI, DAX, Excel
+🔸 Highlighted $1B+ in net profit
+🔸 Enabled deep drill-down & interactive charts
+
+🔹 Deloitte Forensic Data Analyst Simulation
+Data investigation and dashboard building for a corporate fraud scenario.
+Tech: Excel, Tableau
+🔸 Delivered actionable insights with visual summaries
 ---
 
 ## 🛠️ Skills & Technologies
