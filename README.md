@@ -1,20 +1,28 @@
-# 👋 Hi, I'm Mitesh Uttekar
+✨ **Hi, I'm Mitesh Uttekar**
+🎯 **Aspiring Data Analyst | 📊 Power BI & Python Enthusiast | 🧠 ML & NLP Explorer**
 
-🚀 **Full Stack Developer | MERN Enthusiast**
+I'm passionate about transforming data into actionable insights that drive smarter business decisions. With a strong foundation in SQL, Python, Power BI, and Tableau, I’ve worked on real-world data projects involving dashboard creation, predictive modeling, and AI automation.
 
-Passionate about crafting dynamic web applications that elevate user experiences. With a strong foundation in the **MERN stack (MongoDB, Express.js, React, Node.js)**, I enjoy solving complex problems and building scalable, user-friendly software.
+I bring hands-on experience in:
 
-🌟 Always eager to learn and grow, I embrace opportunities to collaborate, exchange ideas, and build meaningful digital experiences.
+Exploratory Data Analysis (EDA)
 
+Data Visualization & Storytelling
+
+Machine Learning for classification & forecasting
+
+Real-time data integration & deployment
+
+I’m always open to learning, collaborating, and solving complex data problems that make real-world impact.
 ---
 
 ## 🌍 Location
 📍 Vadodara, Gujarat, India
 
 ## ✉️ Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ypank14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username) <!-- Replace this -->
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gityashhub)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miteshuttekar16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitesh-uttekar-504625313) <!-- Replace this -->
+
 
 ---
 
@@ -32,19 +40,19 @@ Passionate about crafting dynamic web applications that elevate user experiences
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Languages:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 📚 Core Skills::
+![SQL](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Statistics](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ML Algorithms](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![NLP](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 Frontend:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 📊 Visualization:
+![Power BI](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tableau](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Excel](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🔧 Backend & Tools:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
